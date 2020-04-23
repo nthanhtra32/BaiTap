@@ -1,0 +1,13 @@
+D:\BaitapC#\Chuong3_Bai6\bin\Debug\netcoreapp3.1\Chuong3_Bai6.exe
+D:\BaitapC#\Chuong3_Bai6\bin\Debug\netcoreapp3.1\Chuong3_Bai6.deps.json
+D:\BaitapC#\Chuong3_Bai6\bin\Debug\netcoreapp3.1\Chuong3_Bai6.runtimeconfig.json
+D:\BaitapC#\Chuong3_Bai6\bin\Debug\netcoreapp3.1\Chuong3_Bai6.runtimeconfig.dev.json
+D:\BaitapC#\Chuong3_Bai6\bin\Debug\netcoreapp3.1\Chuong3_Bai6.dll
+D:\BaitapC#\Chuong3_Bai6\bin\Debug\netcoreapp3.1\Chuong3_Bai6.pdb
+D:\BaitapC#\Chuong3_Bai6\obj\Debug\netcoreapp3.1\Chuong3_Bai6.csprojAssemblyReference.cache
+D:\BaitapC#\Chuong3_Bai6\obj\Debug\netcoreapp3.1\Chuong3_Bai6.csproj.CoreCompileInputs.cache
+D:\BaitapC#\Chuong3_Bai6\obj\Debug\netcoreapp3.1\Chuong3_Bai6.AssemblyInfoInputs.cache
+D:\BaitapC#\Chuong3_Bai6\obj\Debug\netcoreapp3.1\Chuong3_Bai6.AssemblyInfo.cs
+D:\BaitapC#\Chuong3_Bai6\obj\Debug\netcoreapp3.1\Chuong3_Bai6.dll
+D:\BaitapC#\Chuong3_Bai6\obj\Debug\netcoreapp3.1\Chuong3_Bai6.pdb
+D:\BaitapC#\Chuong3_Bai6\obj\Debug\netcoreapp3.1\Chuong3_Bai6.genruntimeconfig.cache
